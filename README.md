@@ -2,6 +2,10 @@
 
 I'm Pallavi K T, Currently at X-workz, where I’m learning Java and Spring Boot and improving my programming skills. I enjoy building projects, exploring new technologies, and understanding how applications work in real-world scenarios. I’m looking forward to gaining more hands-on experience and growing as a software developer.
 
+Languages and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,html,css,git,github,vscode,idea)](https://skillicons.dev)
+
 ## 🌱 What I'm working on
 
 - Learning Core Java and Object-Oriented Programming
@@ -22,18 +26,16 @@ I'm Pallavi K T, Currently at X-workz, where I’m learning Java and Spring Boot
 
 ---
 
-Languages and Tools:
-
-[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,html,css,git,github,vscode,idea)](https://skillicons.dev)
-
 🤝 Connect with me:
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pallavikt/)
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat&logo=gmail&logoColor=white)](mailto:315pallavi@gmail.com)
 
-<p>
-  <img src="https://img.shields.io/github/followers/Pallavikt?label=followers&style=flat&logo=github" />
-  <img src="https://img.shields.io/github/stars/Pallavikt?label=stars&style=flat&logo=github" />
-  <img src="https://komarev.com/ghpvc/?username=Pallavikt&label=profile%20views&color=green&style=flat" />
-</p>
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/github/followers/Pallavikt?label=followers&style=flat&logo=github" />
+    <img src="https://img.shields.io/github/stars/Pallavikt?label=stars&style=flat&logo=github" />
+    <img src="https://komarev.com/ghpvc/?username=Pallavikt&label=profile%20views&color=green&style=flat" />
+  </p>
+</div>
