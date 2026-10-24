@@ -2,30 +2,38 @@
 
 I'm Pallavi K T, Currently at X-workz, where I’m learning Java and Spring Boot and improving my programming skills. I enjoy building projects, exploring new technologies, and understanding how applications work in real-world scenarios. I’m looking forward to gaining more hands-on experience and growing as a software developer.
 
-🌱 What I'm Working On:
+## 🌱 What I'm working on
 
-Learning Core Java and Object-Oriented Programming
-Practicing Java and improving my problem-solving skills
-Learning Spring Boot and backend development
-Working on projects to apply what I learn
-Improving my coding skills through regular practice
+- Learning Core Java and Object-Oriented Programming
+- Practicing Java and improving my problem-solving skills
+- Learning Spring Boot and backend development
+- Working on projects to apply what I learn
+- Improving my coding skills through regular practice
 
-🛠️ Tech Stack:
+---
 
-Languages: Java, Python, SQL
-Backend: Spring Boot (Learning)
-Database: MySQL
-Tools: Git, GitHub, VS Code, IntelliJ IDEA
-Interests: Software Development, Software Engineering
+## 🛠️ Tech Stack
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pallavikt&theme=dark&ring=7CFC00&fire=7CFC00&currStreakLabel=00BFFF)](https://git.io/streak-stats)
+- **Languages:** Java, Python, SQL
+- **Backend:** Spring Boot (Learning)
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA
+- **Interests:** Software Development
+
+---
 
 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,html,css,js,spring,git,github,vscode,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,html,css,git,github,vscode,idea)](https://skillicons.dev)
 
 🤝 Connect with me:
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pallavikt/)
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/pallavi_thammaiah/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat&logo=gmail&logoColor=white)](mailto:315pallavi@gmail.com)
+
+<p>
+  <img src="https://img.shields.io/github/followers/Pallavikt?label=followers&style=flat&logo=github" />
+  <img src="https://img.shields.io/github/stars/Pallavikt?label=stars&style=flat&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=Pallavikt&label=profile%20views&color=green&style=flat" />
+</p>
