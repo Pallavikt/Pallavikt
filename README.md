@@ -2,7 +2,7 @@
 
 I'm Pallavi K T, Currently at X-workz, where I’m learning Java and Spring Boot and improving my programming skills. I enjoy building projects, exploring new technologies, and understanding how applications work in real-world scenarios. I’m looking forward to gaining more hands-on experience and growing as a software developer.
 
-Languages and Tools:
+## Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,mysql,html,css,git,github,vscode,idea)](https://skillicons.dev)
 
@@ -30,7 +30,12 @@ Languages and Tools:
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pallavikt/)
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat&logo=gmail&logoColor=white)](mailto:315pallavi@gmail.com)
+## Reach Me:
+
+📧 **Email:** [315pallavi@gmail.com](mailto:your-email@gmail.com)
+
+💼 **LinkedIn:** [Pallavi K T](https://www.linkedin.com/in/pallavikt/)
+
 
 <div align="center">
   <p>
