@@ -2,10 +2,6 @@
 
 I'm Pallavi K T, Currently at X-workz, where I’m learning Java and Spring Boot and improving my programming skills. I enjoy building projects, exploring new technologies, and understanding how applications work in real-world scenarios. I’m looking forward to gaining more hands-on experience and growing as a software developer.
 
-## Languages and Tools:
-
-[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,html,css,git,github,vscode,idea)](https://skillicons.dev)
-
 ## 🌱 What I'm working on
 
 - Learning Core Java and Object-Oriented Programming
@@ -15,6 +11,10 @@ I'm Pallavi K T, Currently at X-workz, where I’m learning Java and Spring Boot
 - Improving my coding skills through regular practice
 
 ---
+
+## Languages and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,html,css,git,github,vscode,idea)](https://skillicons.dev)
 
 ## 🛠️ Tech Stack
 
@@ -36,6 +36,20 @@ I'm Pallavi K T, Currently at X-workz, where I’m learning Java and Spring Boot
 
 💼 **LinkedIn:** [Pallavi K T](https://www.linkedin.com/in/pallavikt/)
 
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Pallavikt&show_icons=true&theme=dark&hide_border=true" alt="Pallavi's GitHub Stats" />
+
+<br/>
+
+<!-- Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavikt&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
+
+</div>
 
 <div align="center">
   <p>
